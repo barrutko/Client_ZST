@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="httpcomponents-core-4.4">
+    <CLASSES>
+      <root url="file://$APPLICATION_HOME_DIR$/httpcomponents-core-4.4.8-bin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$APPLICATION_HOME_DIR$/httpcomponents-core-4.4.8-bin" recursive="false" />
+  </library>
+</component>

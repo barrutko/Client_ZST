@@ -1,0 +1,1 @@
+start java -jar ZST_Client.jar localhost
